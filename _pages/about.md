@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Contact:</b> yutonghe [at] cs [dot] cmu [dot] edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ramen.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>PhD Student @ MLD, SCS, CMU</p>
+    <p>yutonghe [at] cs [dot] cmu [dot] edu</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year PhD student in the Machine Learning Department, School of Computer Science at Carnegie Mellon University, advised by <a href="https://zicokolter.com/">Prof. Zico Kolter</a> and <a href="https://www.cs.cmu.edu/~rsalakhu/">Prof. Ruslan Salakhutdinov</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to CMU, I was a master's student at Stanford Computer Science with distinction in research. I was advised by <a href="https://cs.stanford.edu/~ermon/">Prof. Stefano Ermon</a>, and closely worked with <a href="https://nlp.stanford.edu/manning/">Prof. Christopher Manning</a>,  <a href="https://fse.fsi.stanford.edu/people/david_lobell">Prof. David Lobell</a> and  <a href="https://web.stanford.edu/~mburke/">Prof. Marshall Burke</a>. I completed my B.S in Mathematics and B.S. in Data Science with highest distinction at University of Rochester, where I worked with <a href="https://www.cs.rochester.edu/u/kautz/">Prof. Henry Kautz</a> and <a href="https://www.cs.rochester.edu/u/jluo/">Prof. Jiebo Luo</a>.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was selected as a <a href="https://news.stanford.edu/thedish/2020/10/08/16-stanford-graduate-students-named-2021-siebel-scholars/">Siebel Scholar</a> and a Xerox Engineering Research Fellow. I was also awarded an <a href="https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/">Outstanding Paper Award at ICLR 2022</a> and Doris Ermine Smith Award for Achievement in Mathematics.
+
+My research interests include generative models, representation learning, computational sustainability and broad deep learning topics in general.
+
+<!-- [Note: the rest of the website is a bit outdated, in construction right now =w=] -->
