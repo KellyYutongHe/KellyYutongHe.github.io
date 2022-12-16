@@ -6,8 +6,9 @@ subtitle: <b>Contact:</b> yutonghe [at] cs [dot] cmu [dot] edu
 
 profile:
   align: right
-  image: ramen.jpg
-  image_circular: false # crops the image to make it circular
+  image: kelly.jpeg
+  image_random: true
+  image_circular: true # crops the image to make it circular
   address: >
     <p>PhD Student @ MLD, SCS, CMU</p>
     <p>yutonghe [at] cs [dot] cmu [dot] edu</p>
