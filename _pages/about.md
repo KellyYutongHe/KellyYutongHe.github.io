@@ -6,7 +6,7 @@ subtitle: <b>Contact:</b> yutonghe [at] cs [dot] cmu [dot] edu
 
 profile:
   align: right
-  image: kelly.jpeg
+  image: kelly2024.JPG
   image_random: true
   image_circular: true # crops the image to make it circular
   address: >
