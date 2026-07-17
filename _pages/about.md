@@ -26,7 +26,8 @@ Before coming to CMU, I was a master's student at Stanford Computer Science with
 
 I am a Qualcomm Innovation Fellowship winner and was selected as a <a href="https://news.stanford.edu/thedish/2020/10/08/16-stanford-graduate-students-named-2021-siebel-scholars/">Siebel Scholar</a> and a Xerox Engineering Research Fellow. I was also awarded an <a href="https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/">Outstanding Paper Award at ICLR 2022</a> and Doris Ermine Smith Award for Achievement in Mathematics.
 
-My research focuses on generative modeling and machine learning, with an emphasis on controllable and personalized generation. I study methods that make generative models more intuitive, efficient, and reliable, with applications in visual content creation, image editing, and other creative applications.
+My research focuses on generative modeling and machine learning.
+<!-- My research focuses on generative modeling and machine learning, with an emphasis on controllable and personalized generation. I study methods that make generative models more intuitive, efficient, and reliable, with applications in visual content creation, image editing, and other creative applications. -->
 <!-- My research interests include generative models, more specifically diffusion models and flow matching related topics, and how to properly use them in broader contexts. -->
 
 <!-- [Note: the rest of the website is a bit outdated, in construction right now =w=] -->
